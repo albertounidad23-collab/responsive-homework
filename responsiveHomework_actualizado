@@ -1,0 +1,6 @@
+git init
+git remote add origin https://github.com/albertounidad23-collab/responsive-homework.git
+git add .
+git commit -m "Subida inicial del proyecto responsivo"
+git branch -M main
+git push -u origin main
